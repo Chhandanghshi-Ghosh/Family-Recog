@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(210, 37, 216);
+}
+
+#camera{
+    border: rgb(233, 229, 20) 2px solid;
+    width: 350px;
+    height: 350px;
+}
